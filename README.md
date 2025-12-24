@@ -197,7 +197,7 @@ The Uber Trip Analysis dashboard provides summary and detailed insights into Ube
 </table>
 <h1>📌 Filters & Interactivity</h1>
 <h2>The dashboard includes:</h2>
-✔ Date range picker (e.g., June 1–30, 2024)
-✔ City filter (All Cities / specific)
-✔ Vehicle type breakdown
+✔ Date range picker (e.g., June 1–30, 2024)<br>
+✔ City filter (All Cities / specific)<br>
+✔ Vehicle type breakdown<br>
 ✔ Hover and cross-filter visual actions
