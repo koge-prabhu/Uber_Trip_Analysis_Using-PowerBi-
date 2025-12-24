@@ -62,6 +62,7 @@ The Uber Trip Analysis dashboard provides summary and detailed insights into Ube
 
 
 <h1>📋 3. Detail Analysis</h1>
+<img src="https://github.com/koge-prabhu/Uber_Trip_Analysis_Using-PowerBi-/blob/main/Screenshots/Screenshot%202025-12-24%20111151.png" width="800">
 <table>
   <thead>
     <tr>
