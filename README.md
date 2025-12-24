@@ -16,7 +16,7 @@ The Uber Trip Analysis dashboard provides summary and detailed insights into Ube
 5.Preferred vehicles and distance metrics
 
 <h1>🧭 1. Overview Analysis</h1>
-<img src="https://github.com/koge-prabhu/Business_Analysis/blob/main/Business%20Data%20Analysis%20Dashboard.png.png" width="800">
+<img src="https://github.com/koge-prabhu/Uber_Trip_Analysis_Using-PowerBi-/blob/main/Screenshots/Screenshot%202025-12-24%20111151.png" width="800">
 <table border="1">
   <tr>
     <th>Metric    </th>
@@ -54,6 +54,7 @@ The Uber Trip Analysis dashboard provides summary and detailed insights into Ube
 3.Vehicle type performance
 
 <h1>⏱ 2. Time Analysis</h1>
+<img src="https://github.com/koge-prabhu/Uber_Trip_Analysis_Using-PowerBi-/blob/main/Screenshots/Screenshot%202025-12-24%20111151.png" width="800">
 <h2>Explores temporal booking patterns:</h2>
 1.Booking trends by pickup hour<br>
 2.Heatmap of bookings by day of week and hour<br>
