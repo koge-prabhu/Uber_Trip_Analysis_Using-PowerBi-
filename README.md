@@ -16,6 +16,7 @@ The Uber Trip Analysis dashboard provides summary and detailed insights into Ube
 5.Preferred vehicles and distance metrics
 
 <h1>🧭 1. Overview Analysis</h1>
+<img src="https://github.com/koge-prabhu/Business_Analysis/blob/main/Business%20Data%20Analysis%20Dashboard.png.png" width="800">
 <table border="1">
   <tr>
     <th>Metric    </th>
